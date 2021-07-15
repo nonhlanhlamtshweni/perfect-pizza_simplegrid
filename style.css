@@ -38,7 +38,9 @@ body {
     background-color:#55A630;
     flex: 1.3;
 }
-
+.contact_us {
+    background-color:#774936;     
+    }
 
 @media(min-width: 760px) {
 
@@ -46,8 +48,6 @@ body {
     display: flex;
 }
     
-.contact_us {
-    background-color: #774936;     
-    }
+
 
 }
